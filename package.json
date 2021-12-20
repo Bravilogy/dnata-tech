@@ -1,0 +1,21 @@
+{
+  "name": "dnata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm": "^0.19.1-5",
+    "elm-webpack-loader": "^8.0.0",
+    "prettier": "^2.5.1",
+    "prettier-plugin-elm": "^0.8.0",
+    "webpack": "^5.65.0",
+    "webpack-dev-server": "^4.6.0",
+    "webpack-merge": "^5.8.0"
+  }
+}
