@@ -25,6 +25,32 @@
       "total_price": 715,
       "pp_price": 187,
       "details": "dnata.com/en"
+    },
+    {
+      "id": 2,
+      "img": "/img/atlantis.jpg",
+      "title": "Atlantis The Palm",
+      "star_rating": 4,
+      "description": "Atlantis The Palm underwater experience, Dubai",
+      "user_rating": 8.4,
+      "total_reviews": 83,
+      "features": ["room_only"],
+      "total_price": 715,
+      "pp_price": 187,
+      "details": "dnata.com/en"
+    },
+    {
+      "id": 2,
+      "img": "/img/atlantis.jpg",
+      "title": "Atlantis The Palm",
+      "star_rating": 4,
+      "description": "Atlantis The Palm underwater experience, Dubai",
+      "user_rating": 8.4,
+      "total_reviews": 83,
+      "features": ["room_only"],
+      "total_price": 715,
+      "pp_price": 187,
+      "details": "dnata.com/en"
     }
   ]
 }

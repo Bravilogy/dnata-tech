@@ -23,12 +23,12 @@ update msg model =
                 , loading = False
                 , error = Nothing
               }
-            , getHotelListings
+            , Cmd.none
             )
 
         GotHotelListings (Err _) ->
             ( { model
-                | error = Just "Could not fetch hotel listings"
+                | error = Just "Could not fetch hotel listings."
                 , loading = False
               }
             , Cmd.none

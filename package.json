@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "scripts": {
-    "dev": "concurrently --kill-others \"json-server server/db.json\" \"yarn dev:server\"",
+    "dev": "concurrently --kill-others \"json-server --delay 800 server/db.json\" \"yarn dev:server\"",
     "dev:server": "webpack serve",
     "build": "webpack"
   },
