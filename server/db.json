@@ -11,7 +11,7 @@
       "features": ["room_only", "local_charges"],
       "total_price": 815,
       "pp_price": 204,
-      "details": "dnata.com/en"
+      "details": "https://dnata.com/en"
     },
     {
       "id": 2,
@@ -24,33 +24,33 @@
       "features": ["room_only"],
       "total_price": 715,
       "pp_price": 187,
-      "details": "dnata.com/en"
+      "details": "https://dnata.com/en"
     },
     {
-      "id": 2,
+      "id": 3,
       "img": "/img/atlantis.jpg",
-      "title": "Atlantis The Palm",
-      "star_rating": 4,
-      "description": "Atlantis The Palm underwater experience, Dubai",
-      "user_rating": 8.4,
-      "total_reviews": 83,
-      "features": ["room_only"],
-      "total_price": 715,
-      "pp_price": 187,
-      "details": "dnata.com/en"
+      "title": "Not So Good Hotel",
+      "star_rating": 2,
+      "description": "This hotel is not that good unfortunately. Very difficult to find as well.",
+      "user_rating": 4.4,
+      "total_reviews": 37,
+      "features": ["local_charges"],
+      "total_price": 315,
+      "pp_price": 87,
+      "details": "https://dnata.com/en"
     },
     {
-      "id": 2,
+      "id": 4,
       "img": "/img/atlantis.jpg",
-      "title": "Atlantis The Palm",
-      "star_rating": 4,
-      "description": "Atlantis The Palm underwater experience, Dubai",
-      "user_rating": 8.4,
-      "total_reviews": 83,
+      "title": "Another Bad One",
+      "star_rating": 2,
+      "description": "A very expensive hotel.",
+      "user_rating": 3.4,
+      "total_reviews": 45,
       "features": ["room_only"],
-      "total_price": 715,
-      "pp_price": 187,
-      "details": "dnata.com/en"
+      "total_price": 1291,
+      "pp_price": 339,
+      "details": "https://dnata.com/en"
     }
   ]
 }

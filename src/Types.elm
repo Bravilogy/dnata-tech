@@ -10,6 +10,7 @@ type alias HotelListing =
     , star_rating : Int
     , description : String
     , user_rating : Float
+    , total_reviews : Int
     , features : List String
     , total_price : Int
     , pp_price : Int

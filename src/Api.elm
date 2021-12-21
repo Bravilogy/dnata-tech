@@ -19,6 +19,7 @@ hotelListingDecoder =
         |> required "star_rating" Decode.int
         |> required "description" Decode.string
         |> required "user_rating" Decode.float
+        |> required "total_reviews" Decode.int
         |> required "features" (Decode.list Decode.string)
         |> required "total_price" Decode.int
         |> required "pp_price" Decode.int
